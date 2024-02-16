@@ -1,0 +1,11 @@
+ReferenceError: getProductDetail is not defined
+    at /Users/levanduy/Downloads/online_groceries_shop_base/controllers/admin_controller.js:915:17
+    at Object.CheckParameterValid (/Users/levanduy/Downloads/online_groceries_shop_base/helpers/helpers.js:69:20)
+    at /Users/levanduy/Downloads/online_groceries_shop_base/controllers/admin_controller.js:913:20
+    at /Users/levanduy/Downloads/online_groceries_shop_base/controllers/admin_controller.js:1039:32
+    at Query.<anonymous> (/Users/levanduy/Downloads/online_groceries_shop_base/helpers/db_helpers.js:67:24)
+    at Query.<anonymous> (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/Connection.js:526:10)
+    at Query._callback (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/Connection.js:488:16)
+    at Sequence.end (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Query._handleFinalResultPacket (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/sequences/Query.js:149:8)
+    at Query.EofPacket (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/sequences/Query.js:133:8)

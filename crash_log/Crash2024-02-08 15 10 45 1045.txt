@@ -1,0 +1,1 @@
+Error: ENOENT: no such file or directory, rename '/var/folders/55/0fljnb415ndgpj5_29811sbc0000gn/T/iGFWYzH16k-VutwweDtuc6wr.png' -> './public/img/category/2024020815104510458ykGO8hATD.png'

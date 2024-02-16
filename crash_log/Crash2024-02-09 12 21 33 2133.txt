@@ -1,0 +1,21 @@
+UnsupportedMediaTypeError: unsupported content-type
+    at Form.parse (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/multiparty/index.js:170:21)
+    at /Users/levanduy/Downloads/online_groceries_shop_base/controllers/admin_controller.js:542:18
+    at /Users/levanduy/Downloads/online_groceries_shop_base/controllers/admin_controller.js:1044:28
+    at Query.<anonymous> (/Users/levanduy/Downloads/online_groceries_shop_base/helpers/db_helpers.js:67:24)
+    at Query.<anonymous> (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/Connection.js:526:10)
+    at Query._callback (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/Connection.js:488:16)
+    at Sequence.end (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Query._handleFinalResultPacket (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/sequences/Query.js:149:8)
+    at Query.EofPacket (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/sequences/Query.js:133:8)
+    at Protocol._parsePacket (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/Protocol.js:291:23)UnsupportedMediaTypeError: unsupported content-type
+    at Form.parse (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/multiparty/index.js:170:21)
+    at /Users/levanduy/Downloads/online_groceries_shop_base/controllers/admin_controller.js:542:18
+    at /Users/levanduy/Downloads/online_groceries_shop_base/controllers/admin_controller.js:1044:28
+    at Query.<anonymous> (/Users/levanduy/Downloads/online_groceries_shop_base/helpers/db_helpers.js:67:24)
+    at Query.<anonymous> (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/Connection.js:526:10)
+    at Query._callback (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/Connection.js:488:16)
+    at Sequence.end (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Query._handleFinalResultPacket (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/sequences/Query.js:149:8)
+    at Query.EofPacket (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/sequences/Query.js:133:8)
+    at Protocol._parsePacket (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/Protocol.js:291:23)

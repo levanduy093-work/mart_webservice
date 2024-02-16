@@ -1,0 +1,11 @@
+ReferenceError: image_base_url is not defined
+    at /Users/levanduy/Downloads/online_groceries_shop_base/controllers/admin_controller.js:1453:421
+    at /Users/levanduy/Downloads/online_groceries_shop_base/controllers/admin_controller.js:1660:32
+    at Query.<anonymous> (/Users/levanduy/Downloads/online_groceries_shop_base/helpers/db_helpers.js:67:24)
+    at Query.<anonymous> (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/Connection.js:526:10)
+    at Query._callback (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/Connection.js:488:16)
+    at Sequence.end (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Query._handleFinalResultPacket (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/sequences/Query.js:149:8)
+    at Query.EofPacket (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/sequences/Query.js:133:8)
+    at Protocol._parsePacket (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/levanduy/Downloads/online_groceries_shop_base/node_modules/mysql/lib/protocol/Parser.js:433:10)

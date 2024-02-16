@@ -1,0 +1,11 @@
+{
+    "dbConfig": {
+        "host":"briwpxkoygj2twpdjxus-mysql.services.clever-cloud.com",
+        "user":"utoxmmpphr6rasta",
+        "password":"0G1FhDdWkdXiIm44DSAL",
+        "database":"briwpxkoygj2twpdjxus",
+        "multipleStatements": true,
+        "timezone":"utc+5:30",
+        "charset":"utf8mb4"
+    }
+}
